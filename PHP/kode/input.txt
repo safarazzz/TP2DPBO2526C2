@@ -1,0 +1,4 @@
+add 6 3200000 4 dipetik premium 3.2 Jackson DK2M 24 nikel images/jackson-dk2m.jpg
+add 7 950000 15 dipetik likenew 2.6 Yamaha F310 20 nilon images/yamaha-f310.jpg
+add 8 4100000 3 dipetik ori 3.4 Schecter C-1 24 baja images/schecter-c1.jpg
+add 9 1800000 7 dipetik bekas 2.9 Fender Telecaster 21 bronze images/fender-telecaster.jpg
