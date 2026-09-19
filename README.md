@@ -3,7 +3,7 @@ Saya Faridchi Trianda Safaraz dengan NIM 2506827 mengerjakan Tugas Praktikum 2 p
 
 # Struktur File
 ```
-TP2DPBO2526C2
+Main
 ├── Cpp/
 │   ├── Program/
 │   │   ├── Item.cpp
