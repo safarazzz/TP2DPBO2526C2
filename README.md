@@ -147,7 +147,7 @@ Catatan: kolom `(foto)` diisi dengan path/nama file gambar gitar, contoh: `image
 
 ## PHP
 <div>
-    <img src="PHP/Dokumentasi/php1.png" style="width: 49%;">
-    <img src="PHP/Dokumentasi/php2.png" style="width: 49%;">
-    <img src="PHP/Dokumentasi/php3.png" style="width: 49%;">
+    <img src="PHP/dokumentasi/php1.png" style="width: 49%;">
+    <img src="PHP/dokumentasi/php2.png" style="width: 49%;">
+    <img src="PHP/dokumentasi/php3.png" style="width: 49%;">
 </div>
