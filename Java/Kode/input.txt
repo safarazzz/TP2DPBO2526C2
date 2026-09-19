@@ -1,0 +1,22 @@
+1. testcase untuk show data awal tanpa panduan dulu
+show
+
+2. testcase untuk add banyak gitar sekaligus dengan variasi merek lain
+add 20 2450000 6 dipetik baru 3.3 Gibson LesPaulStudio 22 baja
+add 21 1150000 11 dipetik bekas 2.4 Squier Bullet-Strat 21 nikel
+add 22 6700000 1 dipetik ori 3.8 PRS CE24 24 nikel
+add 23 720000 25 dipetik likenew 1.7 Cordoba C5 19 nilon
+add 24 3990000 4 dipetik premium 3.5 Charvel ProMod 24 baja
+show
+
+3. testcase untuk error handling stok/fret diisi angka desimal (harus integer)
+add 25 1500000 5.5 dipetik baru 2.9 Cort G250 22.5 baja
+
+4. testcase untuk error handling kolom kurang (harga & seterusnya tidak diisi)
+add 26
+
+5. testcase untuk error handling perintah add tanpa argumen sama sekali
+add
+
+6. testcase untuk perintah kosong (hanya enter)
+

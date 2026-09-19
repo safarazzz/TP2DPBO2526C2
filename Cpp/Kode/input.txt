@@ -1,0 +1,11 @@
+1. testcase untuk add
+
+add 6 2500000 10 dipetik baru 3.0 Fender Stratocaster 22 baja
+add 7 3200000 4 dipetik premium 3.2 Jackson DK2M 24 nikel
+add 8 950000 15 dipetik likenew 2.6 Yamaha F310 20 nilon
+add 9 4100000 3 dipetik ori 3.4 Schecter C-1 24 baja
+add 10 1800000 7 dipetik bekas 2.9 Fender Telecaster 21 bronze
+
+2. testcase untuk error handling
+remove 6
+help

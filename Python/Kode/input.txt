@@ -1,0 +1,33 @@
+1. testcase untuk melihat data awal dan panduan
+panduan
+show
+
+2. testcase untuk add dengan data baru
+
+add 11 2750000 8 dipetik baru 2.8 Ibanez RG350DX 24 baja
+add 12 1650000 0 dipetik bekas 3.1 Cort X100 22 nikel
+add 13 5200000 2 dipetik ori 3.6 PRS SE Custom24 24 nikel
+add 14 890000 20 dipetik likenew 1.8 Yamaha CS40 19 nilon
+add 15 3300000 6 dipetik premium 3.0 ESP LTD EC-256 22 baja
+show
+
+3. testcase untuk error handling format salah
+
+add enam 2750000 8 dipetik baru 2.8 Ibanez RG350DX 24 baja
+
+4. testcase untuk error handling data kurang lengkap
+add 16 2200000 5 dipetik baru 2.9 Cort X300
+
+5. testcase untuk error handling harga/berat bukan angka
+add 17 mahal 5 dipetik baru berat Cort X300 22 baja
+
+6. testcase untuk perintah yang tidak dikenali
+remove 11
+edit 12
+hapus 13
+
+7. testcase untuk memastikan show tetap berjalan normal setelah error di atas
+show
+
+8. testcase untuk mengakhiri program
+done
